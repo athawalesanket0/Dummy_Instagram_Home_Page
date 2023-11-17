@@ -1,5 +1,5 @@
-![Screenshot (176)](https://github.com/athawalesanket0/Dummy_Instagram_Home_Page/assets/108395509/800f256a-8900-4eb3-9b5e-0dbc182f7ca7)
-![Screenshot (177)](https://github.com/athawalesanket0/Dummy_Instagram_Home_Page/assets/108395509/157503c0-1d67-4549-8b36-70a4c349cd5c)
+![Screenshot (176)](https://github.com/athawalesanket0/Dummy_Instagram_Home_Page/assets/108395509/66ddafcf-4079-4ef2-9414-87cd02912d0e)
+![Screenshot (177)](https://github.com/athawalesanket0/Dummy_Instagram_Home_Page/assets/108395509/31d19a64-8e6e-488f-86b0-b6239cc23ef4)
 
 
 
