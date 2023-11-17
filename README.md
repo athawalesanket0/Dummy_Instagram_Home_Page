@@ -1,3 +1,10 @@
+![Screenshot (176)](https://github.com/athawalesanket0/Dummy_Instagram_Home_Page/assets/108395509/800f256a-8900-4eb3-9b5e-0dbc182f7ca7)
+![Screenshot (177)](https://github.com/athawalesanket0/Dummy_Instagram_Home_Page/assets/108395509/157503c0-1d67-4549-8b36-70a4c349cd5c)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
